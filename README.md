@@ -795,6 +795,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [PhotoGallery](https://github.com/chsakell/aspnet5-angular2-typescript) - Cross-platform Single Page Applications with ASP.NET Core, Angular 2 & TypeScript [http://wp.me/p3mRWu-11L](http://wp.me/p3mRWu-11L).
   * [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) - A daily updated micro samples of ASP.NET Core features and facilities.
   * [StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core.
+  * [DotNetCleanArchitecture](https://github.com/ivanpaulovich/dotnet-clean-architecture) - A Clean Architecture and Model-View-Presenter demo with implementation guided by Tests.
  
 ## Articles
 * Basic knowledge
